@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "149222222248",
+    "firebase_url": "https://ffod-2cbcd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ffod-2cbcd",
+    "storage_bucket": "ffod-2cbcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149222222248:android:37cdb6094d27d74e0d159d",
+        "android_client_info": {
+          "package_name": "class02.lava.lavafoodv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mmfqsCkm05EsiiOHo2Sm8koNgLNmqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149222222248:android:371bd5098a682faf0d159d",
+        "android_client_info": {
+          "package_name": "com.example.cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mmfqsCkm05EsiiOHo2Sm8koNgLNmqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149222222248:android:404fd78dc4f17f380d159d",
+        "android_client_info": {
+          "package_name": "com.example.ffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mmfqsCkm05EsiiOHo2Sm8koNgLNmqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149222222248:android:3b9bb1b6b83ef3ec0d159d",
+        "android_client_info": {
+          "package_name": "com.example.giohang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mmfqsCkm05EsiiOHo2Sm8koNgLNmqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149222222248:android:25c4a674718743fd0d159d",
+        "android_client_info": {
+          "package_name": "com.example.teamproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mmfqsCkm05EsiiOHo2Sm8koNgLNmqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149222222248-dph75op3kbofphpdlku4rvt39natll37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
